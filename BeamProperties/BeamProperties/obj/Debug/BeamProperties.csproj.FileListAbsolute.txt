@@ -1,0 +1,16 @@
+C:\Documents and Settings\Erin\Local Settings\Application Data\Temporary Projects\BeamProperties\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Erin\Local Settings\Application Data\Temporary Projects\BeamProperties\obj\Debug\BeamProperties.Form1.resources
+C:\Documents and Settings\Erin\Local Settings\Application Data\Temporary Projects\BeamProperties\obj\Debug\BeamProperties.Properties.Resources.resources
+C:\Documents and Settings\Erin\Local Settings\Application Data\Temporary Projects\BeamProperties\obj\Debug\BeamProperties.csproj.GenerateResource.Cache
+C:\Documents and Settings\Erin\Local Settings\Application Data\Temporary Projects\BeamProperties\bin\Debug\BeamProperties.exe
+C:\Documents and Settings\Erin\Local Settings\Application Data\Temporary Projects\BeamProperties\bin\Debug\BeamProperties.pdb
+C:\Documents and Settings\Erin\Local Settings\Application Data\Temporary Projects\BeamProperties\obj\Debug\BeamProperties.exe
+C:\Documents and Settings\Erin\Local Settings\Application Data\Temporary Projects\BeamProperties\obj\Debug\BeamProperties.pdb
+C:\Documents and Settings\Erin\My Documents\Visual Studio 2008\Projects\BeamProperties\BeamProperties\obj\Debug\BeamProperties.exe
+C:\Documents and Settings\Erin\My Documents\Visual Studio 2008\Projects\BeamProperties\BeamProperties\obj\Debug\BeamProperties.pdb
+C:\Documents and Settings\Erin\My Documents\Visual Studio 2008\Projects\BeamProperties\BeamProperties\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Erin\My Documents\Visual Studio 2008\Projects\BeamProperties\BeamProperties\obj\Debug\BeamProperties.Form1.resources
+C:\Documents and Settings\Erin\My Documents\Visual Studio 2008\Projects\BeamProperties\BeamProperties\obj\Debug\BeamProperties.Properties.Resources.resources
+C:\Documents and Settings\Erin\My Documents\Visual Studio 2008\Projects\BeamProperties\BeamProperties\obj\Debug\BeamProperties.csproj.GenerateResource.Cache
+C:\Documents and Settings\Erin\My Documents\Visual Studio 2008\Projects\BeamProperties\BeamProperties\bin\Debug\BeamProperties.exe
+C:\Documents and Settings\Erin\My Documents\Visual Studio 2008\Projects\BeamProperties\BeamProperties\bin\Debug\BeamProperties.pdb
